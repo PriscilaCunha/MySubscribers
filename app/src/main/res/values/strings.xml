@@ -3,4 +3,8 @@
 
     <!-- SubscriberFragment -->
     <string name="subscriber_title">Subscriber</string>
+    <string name="subscriber_name_hint">Nome do Subscriber</string>
+    <string name="subscriber_email_hint">E-mail</string>
+    <string name="subscriber_button">Adicionar</string>
+
 </resources>
