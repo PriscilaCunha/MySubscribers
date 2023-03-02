@@ -6,5 +6,11 @@
     <string name="subscriber_name_hint">Nome do Subscriber</string>
     <string name="subscriber_email_hint">E-mail</string>
     <string name="subscriber_button">Adicionar</string>
+    <string name="subscriber_updated_successfully">Atualizado com sucesso</string>
+    <string name="subscriber_error_to_update">Update Error</string>
+    <string name="subscriber_inserted_successfully">Inserted Successfuly</string>
+    <string name="subscriber_error_to_insert">Insert Error</string>
+    <string name="subscriber_deleted_successfully">Deleted</string>
+    <string name="subscriber_error_to_delete">Error to delete</string>
 
 </resources>
