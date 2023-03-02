@@ -1,6 +1,5 @@
 package com.igti.mysubscribers.ui.subscriberlist
 
-import android.content.ContentValues.TAG
 import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
@@ -29,5 +28,9 @@ class SubscriberListViewModel(
         } catch (ex: Exception) {
             Log.e(TAG, ex.toString())
         }
+    }
+
+    companion object {
+        private val TAG = SubscriberListViewModel::class.java.simpleName
     }
 }
