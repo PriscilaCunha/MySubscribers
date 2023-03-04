@@ -1,10 +1,10 @@
 package com.igti.mysubscribers.data.db.entity
 
+import android.os.Parcelable
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
-@Entity(tableName = "Subscriber")
-
+@Entity(tableName = "subscriber")
 data class SubscriberEntity(
     @PrimaryKey(autoGenerate = true)
     val id: Long = 0,
